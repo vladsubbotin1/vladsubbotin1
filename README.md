@@ -9,8 +9,7 @@
 ## Technical Skills: 🔧
 
 - Programming languages: Javascript, C++
-- Technologies and Frameworks: HTML, SCSS, React.js
-- IDE: Visual Studio Code
+- Technologies and Frameworks: SCSS, React.js
 - Building tools: npm, Webpack
 - Other tools: Wordpress CMS, Figma, Photoshop
 
