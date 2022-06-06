@@ -1,33 +1,29 @@
-### Hi there, my name's Vlad 👋
+### Hi there! 👋
 
----
+##  My name is Vlad and I want to be a Front-End Developer
 
-### I’m a Front-End Developer located in Saratov.
+- ⚡ I’m interested in UI development technologies, IoT and Web3
+- 🌱 I’m currently learning React and TypeScript
+- 💬 Ask me about JS, projects, technologies or music
 
-⚡Since the beginning of my journey as a freelance F/E Engineer nearly a year ago, I've done remote work for agencies and collaborated with talented people to create digital products for both business and consumer use. Currently, I am a RS-School student learning React.js and I'm also interested in WEB3 technologies.⚡
+### Technical Skills: 🔧
 
-## Technical Skills: 🔧
-
-- Programming languages: Javascript, C++
-- Technologies and Frameworks: SCSS, React.js
+- Languages: JavaScript, C++, C#
+- Technologies: SCSS, React.js
 - Building tools: npm, Webpack
 - Other tools: Wordpress CMS, Figma, Photoshop
 
+[<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="Sass" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
+[<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-
-<br />
-<br />
-
----
+<br><br>
 
 ### English Level:
 
-- Advanced (C1 CEFR) 
+Advanced (C1 CEFR) 
 
 ---
 
